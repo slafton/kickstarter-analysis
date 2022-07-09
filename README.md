@@ -3,12 +3,12 @@
 ## Overview of Project
 I used formulas to provided needed data to visualize campaign outcomes based on their launch dates and their funding goals.
 
-### The Purpose
+## The Purpose
 The purpose of this so that Louise could see how other campaigns fared in relation to their launch dates and their funding goals.
 
 ## Analysis and Challenges
 
-### Analysis of Oucomes based on Launch Date
+## Analysis of Oucomes based on Launch Date
 In our Theater Outcomes Based on Launch Date table we can see that the best months to launch a campaing were from Jan. to Jul. After that they go down but there was a rise in Oct and Nov. 
 
 ### Analysis of Outcomes Based on Goals
