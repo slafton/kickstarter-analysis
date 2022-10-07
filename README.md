@@ -26,6 +26,6 @@ The first half of the year is a better time to launch a campaign than the second
 If launching a campaign during the second half of the year, launch in Oct or Nov.
 
 ### Limitations
-Limitation could be that this data is a little old. It looks like the latest year was 2017. If you were looking to launch a campaing next year I think it would be worthwhile to get more updated date and rerun some of the numbers. 
+Limitation could be that this data is a little old. It looks like the latest year was 2017. If you were looking to launch a campaign next year I think it would be worthwhile to get more updated data and rerun some of the numbers. 
 
-Another possible graph could be one showing the success/failures with the number of backers. How popular a theme is and whether the public has an interest in it would certainly play a role in a successful campaign.
+Another possible graph could be one showing the success/failure with the number of backers. How popular a theme is, and whether the public has an interest in it, would certainly play a role in a successful campaign.
